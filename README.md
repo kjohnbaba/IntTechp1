@@ -1,1 +1,1 @@
-# IntTechp1
+# Sample Server and Client programs to send messages between them using Python's socket class
